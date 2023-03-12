@@ -1,0 +1,9 @@
+{
+  "name": "@ryaninvents/temp-jest-tsx-repro.monorepo",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "Ryan Kennedy <me@ryaninvents.com>",
+  "license": "MIT",
+  "private": true,
+  "packageManager": "yarn@3.4.1"
+}
