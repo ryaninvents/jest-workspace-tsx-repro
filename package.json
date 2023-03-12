@@ -5,5 +5,8 @@
   "author": "Ryan Kennedy <me@ryaninvents.com>",
   "license": "MIT",
   "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
   "packageManager": "yarn@3.4.1"
 }
